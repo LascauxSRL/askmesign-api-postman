@@ -1,4 +1,5 @@
-# askmesign-api-postman
+# AskMe Sign APIs for Postman
+
 Postman collection for AskMe Sign API Endpoints
 
 ## Getting Started
