@@ -6,4 +6,9 @@ To get started, you could either fork the collection from the Postman's workspac
 
 Update the environment variables with your secret keys and save.
 
+| Variable    | Description |
+| -------- | ------- |
+| endpoint  | Tour AskMe Sign platform endpoint URL    |
+| apiKey | The application API KEY     |
+
 You are now up and running with AskMe Sign API collections.
